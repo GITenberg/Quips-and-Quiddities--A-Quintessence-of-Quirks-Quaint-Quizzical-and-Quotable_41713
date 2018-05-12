@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '41320'
     url: http://www.gutenberg.org/2009/agents/41320
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/41713#Quips-and-Quiddities--A-Quintessence-of-Quirks-Quaint-Quizzical-and-Quotable
 gutenberg_issued: '2012-12-27'
 gutenberg_type: Text
 identifiers:
